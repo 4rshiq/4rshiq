@@ -61,7 +61,7 @@ text, tspan {white-space: pre;}
 <tspan x="610" y="110">4rshiq</tspan> <tspan class="cc">-----------------------------------------------------</tspan>
 <tspan x="610" y="110">4rshiq</tspan> <tspan class="cc">-----------------------------------------------------</tspan>
 <tspan x="610" y="130" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ....................................... </tspan><tspan class="value">Windows, macOS</tspan>
-<tspan x="610" y="150" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 3 months, 11 days</tspan>
+<tspan x="610" y="150" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">19 years, 3 months, 12 days</tspan>
 <tspan x="610" y="170" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">B.Tech CSE</tspan>
 <tspan x="610" y="190" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................................. </tspan><tspan class="value">VS Code</tspan>
 <tspan x="610" y="230" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">C, C++, Python, JavaScript</tspan>
